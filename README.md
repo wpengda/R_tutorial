@@ -1,7 +1,7 @@
 # R_tutorial
 In this project I have put together some tutorials on how to do analysis in R. Each folder represents a different content such as t-test, ANOVA etc. Below are some book for R.
 
-## Introductory Books:
+## Introductory Books
 An Introduction to R, https://intro2r.com/
 
 Efficient R programming, https://csgillespie.github.io/efficientR/
