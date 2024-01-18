@@ -18,6 +18,17 @@ $$
 \text{Cov}(X, Y) = \frac{1}{n-1} \sum_{i=1}^{n} (X_i - \overline{X})(Y_i - \overline{Y})
 $$
 
+## Variance
+$$
+\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
+$$
+
+When you calculate the covariance of a variable with itself, you are actually calculating its variance.
+
+$$
+\text{cov}(X, X) = \text{var}(X)
+$$
+
 ## Regression coefficient
 
 $$
@@ -32,7 +43,7 @@ $$
 b = \frac{\sigma_{XY}}{\sigma_X^2}
 $$
 
-$ \sigma_{XY} $ is the covariance of X and Y
+$$ \sigma_{XY} $$ is the covariance of X and Y
 
 ## Standardized regression coefficient
 
