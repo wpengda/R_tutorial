@@ -10,6 +10,10 @@ $$
 r = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y}
 $$
 
+$$
+r = \frac{\sum z_x z_y}{n}
+$$
+
 ## Covariance
 
 if is population divided by n
@@ -43,7 +47,7 @@ $$
 b = \frac{\sigma_{XY}}{\sigma_X^2}
 $$
 
-$$ \sigma_{XY} $$ is the covariance of X and Y
+$\sigma_{XY}$ is the covariance of X and Y
 
 ## Standardized regression coefficient
 
